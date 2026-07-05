@@ -1,0 +1,3 @@
+The Ultra Marathon mode on Infinix devices is highly efficient at preserving battery life during emergencies. However, it completely locks down the device, hiding the custom wallpaper and disabling access to almost all applications except for a few system defaults like SMS, Phone, and Calendar. Because there is no native way to customize or whitelist additional applications, it can be inconvenient when you need to access a specific app without completely turning off the power-saving environment.
+
+To solve this limitation without root access or dangerous system modifications, Delook was created to exploit the standard system share menu and bridge the gap between the locked environment and your installed apps.

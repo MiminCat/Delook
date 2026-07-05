@@ -1,0 +1,1 @@
+A tool to bypass power-saving restrictions and access apps via the system share menu.
