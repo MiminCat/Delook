@@ -20,6 +20,7 @@ The Ultra Marathon mode on Infinix devices is highly efficient at preserving bat
 
 To solve this limitation without root access or dangerous system modifications, Delook was created to exploit the standard system share menu and bridge the gap between the locked environment and your installed apps.
 
+maaf memakai bahasa indonesia, sejujurnya saya membuat aplikasi ini untuk menangani masalah pribadi saya :)
 ---
 
 ## Technical Workaround and How It Works
